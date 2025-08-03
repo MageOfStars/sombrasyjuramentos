@@ -368,7 +368,6 @@
             <div class="score-label">Hijo del sol</div>
             <div class="score-number" id="score-VD">0</div>
         </div>
-    </div>
 
     <form id="test-form" autocomplete="off">
         <div class="questions">
@@ -1574,4 +1573,3 @@
 </script>
 
 </body>
-</html>
