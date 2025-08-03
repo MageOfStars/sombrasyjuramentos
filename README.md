@@ -319,7 +319,6 @@
     }
     .hidden { display:none !important; }
 </style>
-</head>
 <body>
 
 <div class="container">
