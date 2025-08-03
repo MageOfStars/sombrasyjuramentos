@@ -1,7 +1,6 @@
-<html lang="es">
 <head>
 <meta charset="UTF-8" />
-<title>Evolet – Sombras y Juramentos</title>
+<title>Evolet – Sombras y Juramentos (Interactivo)</title>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <!-- Fuentes -->
 <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English&family=UnifrakturCook:wght@700&family=Inter:wght@400;600&display=swap" rel="stylesheet">
@@ -105,7 +104,7 @@
         align-items:center;
         gap:4px;
         border:1px solid rgba(255,255,255,0.08);
-        
+        transition: transform var(--transition), box-shadow var(--transition);
     }
     .score-cell.active {
         box-shadow: 0 18px 60px -8px rgba(181,117,209,.6);
