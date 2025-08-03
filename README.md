@@ -1,7 +1,6 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8" />
-<title>Evolet – Sombras y Juramentos (Interactivo)</title>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <!-- Fuentes -->
 <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English&family=UnifrakturCook:wght@700&family=Inter:wght@400;600&display=swap" rel="stylesheet">
