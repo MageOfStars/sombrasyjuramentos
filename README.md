@@ -1571,5 +1571,3 @@
     // Inicial
     tally();
 </script>
-
-</body>
