@@ -1,3 +1,4 @@
+<html lang="es">
 <head>
 <meta charset="UTF-8" />
 <title>Evolet – Sombras y Juramentos (Interactivo)</title>
